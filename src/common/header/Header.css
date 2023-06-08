@@ -1,0 +1,59 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+.toolbar-wrapper {
+  display: flex;
+  flex-grow: 1;
+}
+
+.toolbar {
+  background-color: #262673;
+  height: 75px;
+  width: 100%;
+  position: fixed;
+}
+
+.img {
+  height: 60px;
+}
+
+.page-title {
+  color: #ffffff;
+  font-family: monospace;
+}
+
+.navbar-item {
+  color: white;
+  text-decoration: none;
+}
+
+.nav-btn {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  font-size: 19px;
+  color: white;
+}
+
+.welcome-banner {
+  cursor: pointer;
+  color: white;
+  font-size: 19px;
+}
+
+.login-button {
+  background-color: white !important;
+  color: black !important;
+}
+
+.toolHeader {
+  text-align: center;
+  background-color: #262673;
+  color: white;
+}
+  

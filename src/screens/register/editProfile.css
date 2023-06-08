@@ -1,0 +1,16 @@
+.form-wrapper {
+  text-align: center;
+}
+
+.input-radius {
+  border-radius: 40px !important;
+}
+
+.error-message {
+  font-weight: bold;
+  color: red;
+}
+
+.button-update {
+  background-color: #262673 !important;
+}

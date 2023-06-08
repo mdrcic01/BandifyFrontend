@@ -1,0 +1,19 @@
+.form-wrapper {
+  text-align: center;
+}
+
+.error-message {
+  font-weight: bold;
+  color: red;
+}
+
+.snackbar {
+  white-space: pre-wrap;
+  width: 300px;
+}
+
+.register-title {
+  text-align: center;
+  background-color: #262673;
+  color: white;
+}

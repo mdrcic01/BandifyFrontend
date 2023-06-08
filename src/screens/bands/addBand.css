@@ -1,0 +1,19 @@
+.band-img {
+  margin-top: 20px;
+  margin-left: 50px;
+  height: 300px;
+}
+
+.form {
+  text-align: center;
+}
+
+.button {
+  background-color: #B545a9 !important;
+}
+
+.snackbar {
+  white-space: pre-wrap;
+  width: 300px;
+}
+

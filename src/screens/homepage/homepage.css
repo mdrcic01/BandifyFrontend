@@ -1,0 +1,80 @@
+.grid {
+  padding-left: 100px;
+}
+.card {
+  display: flex;
+  min-width: 87%;
+  max-width: 87%;
+}
+.card-content {
+  padding: 1em 1em 0 1em;
+  object-fit: contain;
+  min-width: 15%;
+  max-width: 15%;
+}
+.box {
+  display: inline-flex;
+  flex-direction: column;
+  width: 90%;
+}
+.card-content-price {
+  font-family: Roboto, serif;
+  width: 100%;
+}
+.band-details-grid {
+  display: flex;
+  flex-wrap: wrap;
+}
+.price-tag {
+  float: right;
+}
+.owner-tag {
+  display: flex;
+  flex-wrap: wrap;
+  float: left;
+}
+.already-applied-btn {
+  display: flex;
+  flex-wrap: wrap;
+  float: right;
+}
+.apply-btn {
+  display: flex;
+  flex-wrap: wrap;
+  float: right;
+}
+.table-header {
+  background-color: #262673;
+  color: white;
+}
+.tables-row {
+  padding-left: 20px;
+}
+.musician-list {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 5px;
+}
+.no-bands-message {
+  color: red;
+  padding: 10px;
+}
+.message {
+  font-weight: bold;
+  font-family: Roboto, sans-serif;
+}
+.welcome-box {
+  padding: 20px;
+  margin-top: 50px;
+  margin-left: 80px;
+  border-radius: 20px;
+  background-color: azure;
+  box-shadow: -5px 5px 8px black;
+  color: black;
+  width: 30%;
+  text-align: center;
+}
+.snackbar {
+  white-space: pre-wrap;
+  width: 300px;
+}

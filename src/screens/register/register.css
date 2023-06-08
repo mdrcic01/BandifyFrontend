@@ -1,0 +1,25 @@
+.form-wrapper {
+  text-align: center;
+}
+
+.input-radius {
+  border-radius: 40px !important;
+}
+
+.float-left {
+  float: left;
+}
+
+.error-message {
+  font-weight: bold;
+  color: red;
+}
+
+.button-reg {
+  background-color: #262673 !important;
+}
+
+.snackbar {
+  white-space: pre-wrap;
+  width: 300px;
+}

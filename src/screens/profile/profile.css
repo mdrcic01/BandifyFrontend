@@ -1,0 +1,18 @@
+.modal-wrapper {
+  background: linear-gradient(110deg, #f2f5e9 60%, #b3e0ff 60%);
+  width: 300px;
+}
+
+.form-wrapper {
+  text-align: center;
+}
+
+.error-message {
+  font-weight: bold;
+  color: red;
+}
+
+.snackbar {
+  white-space: pre-wrap;
+  width: 300px;
+}

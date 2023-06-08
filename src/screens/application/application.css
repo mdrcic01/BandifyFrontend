@@ -1,0 +1,15 @@
+.icon-btn {
+  position: absolute;
+  right: 8px;
+  top: 8px;
+}
+
+.no-records-error {
+  color: red;
+  padding: 10px;
+}
+
+.snackbar {
+  white-space: pre-wrap;
+  width: 300px;
+}

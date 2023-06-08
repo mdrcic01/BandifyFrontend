@@ -1,0 +1,89 @@
+.add-button {
+  float: right;
+  height: 60px;
+  margin-right: 3%;
+  margin-top: -10px;
+  cursor: pointer;
+}
+
+.band-container {
+  padding-left: 150px;
+}
+
+.card {
+  display: flex;
+  min-width: 87%;
+  max-width: 87%;
+}
+
+.box {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+}
+
+.band-metadata {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.price-container {
+  display: inline-flex;
+  float: right;
+}
+
+.price {
+  float: right;
+}
+
+.action-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  float: right;
+}
+
+.button-img {
+  float: right;
+  height: 20px;
+  cursor: pointer;
+}
+
+.icon {
+  fill: white;
+}
+
+.table-header {
+  background-color: #262673;
+  color: white;
+}
+
+.applied-musicians {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 5px;
+}
+
+.application-card {
+  padding: 10px;
+  background-color: #b3f3f5;
+}
+
+.applicant {
+  display: flex;
+  flex-wrap: wrap;
+  float: left;
+}
+
+.applicant-buttons {
+  float: right;
+}
+
+.not-found-message {
+  color: red;
+  padding: 10px;
+}
+
+.modal-title {
+  text-align: center;
+  color: white;
+}
